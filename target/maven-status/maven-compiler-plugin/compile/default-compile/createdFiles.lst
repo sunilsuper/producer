@@ -1,0 +1,7 @@
+com\kafka\producer\ProducerRun.class
+com\kafka\producer\ProducerDemo$1.class
+com\kafka\producer\ProducerDemo.class
+com\kafka\producer\pojo\EmployeeDetails.class
+com\kafka\producer\ReadProducerProperties.class
+com\kafka\producer\pojo\Employee.class
+com\kafka\producer\pojo\Message.class
